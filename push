@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m 'simple_shell'
+git push
