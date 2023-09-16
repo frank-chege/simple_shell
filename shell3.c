@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _nmbr_value - the number of values
+ * _nmbr_value - number of values
  * @input: getting data input
  * Return: null or void
 */

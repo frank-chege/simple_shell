@@ -2,11 +2,11 @@
 
 /**
  * main - where the program starts
- * @argc: argument to counter
- * @argv: argument to values
- * @env: environment variable
+ * @argc: argument
+ * @argv: argument
+ * @env: environment
  * Return: null or address
-*/
+ * */
 
 int main(int argc, char **argv, char **env)
 
