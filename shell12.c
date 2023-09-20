@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _compare - comparing two strings
+ * _compare - compare two strings
  * @str1: string one
  * @str2: string two
  * @sz: size of strings

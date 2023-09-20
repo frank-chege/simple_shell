@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * display_path - showing the route
+ * display_path - show the route
  * @value: data to be executed
  * @env: environment variable
  * Return: null or address

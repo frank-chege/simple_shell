@@ -1,8 +1,8 @@
 #include "shell.h"
 
 /**
- * _display - displaying output
- * @position: showing the position
+ * _display - display output
+ * @position: show position
  * @argv: argument to values
  * @msg: msg to display
  * Return: null or address

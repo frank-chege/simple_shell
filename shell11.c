@@ -2,7 +2,7 @@
 
 /**
  * _copy - copying string
- * @end: end of the string
+ * @end: end the string
  * @str: copied string
  * Return: null or address
 */

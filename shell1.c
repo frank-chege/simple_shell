@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * begin - starting point of simple shell
+ * begin - starting point of the simple shell
  * @argc: argument to counter
  * @argv: argument to values
  * @env: environment variable

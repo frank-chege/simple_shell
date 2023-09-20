@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * prompt_input - prompts shell file to be executed
+ * prompt_input - prompts shell file
  * @argv: argument to values
  * Return: null or address;
 */

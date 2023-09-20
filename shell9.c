@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * quit_cmd - quiting shell
+ * quit_cmd - quit shell
  * @cmd: command
  * Return: null or address
 */

@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * run_cmd - running commands.
+ * run_cmd - run commands.
  * @value: argument to be execute.
  * @argv: argument to values.
  * @env: environment variable.
