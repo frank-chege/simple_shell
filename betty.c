@@ -2,8 +2,7 @@
 
 /**
  * betty - program start
- * Return: 0 indicating success
-*/
+ * Return: 0 indicating success*/
 
 int betty(void)
 
